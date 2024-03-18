@@ -1,0 +1,4 @@
+name: Shiba_Plugin
+version: '1.0'
+main: org.source.shibaplugin.Shiba_Plugin
+api-version: '1.20'

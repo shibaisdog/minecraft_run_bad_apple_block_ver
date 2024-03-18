@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shiba-Plugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shiba_Plugin_jar</output-path>
+    <root id="archive" name="Shiba-Plugin.jar" />
+  </artifact>
+</component>
